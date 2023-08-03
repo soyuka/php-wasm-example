@@ -1,0 +1,8 @@
+{
+  http_port 8080
+}
+
+localhost:8443 {
+  root public
+  file_server
+}
